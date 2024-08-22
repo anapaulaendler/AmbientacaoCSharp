@@ -1,0 +1,14 @@
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\obj\Debug\net8.0\MaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\obj\Debug\net8.0\MaiorMenor.AssemblyInfoInputs.cache
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\obj\Debug\net8.0\MaiorMenor.AssemblyInfo.cs
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\obj\Debug\net8.0\MaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\bin\Debug\net8.0\MaiorMenor.exe
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\bin\Debug\net8.0\MaiorMenor.deps.json
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\bin\Debug\net8.0\MaiorMenor.runtimeconfig.json
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\bin\Debug\net8.0\MaiorMenor.dll
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\bin\Debug\net8.0\MaiorMenor.pdb
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\obj\Debug\net8.0\MaiorMenor.dll
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\obj\Debug\net8.0\refint\MaiorMenor.dll
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\obj\Debug\net8.0\MaiorMenor.pdb
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\obj\Debug\net8.0\MaiorMenor.genruntimeconfig.cache
+C:\Users\Usuário\AmbientacaoDeconto\MaiorMenor\obj\Debug\net8.0\ref\MaiorMenor.dll

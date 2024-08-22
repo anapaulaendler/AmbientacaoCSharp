@@ -1,0 +1,14 @@
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\bin\Debug\net8.0\CalculadoraDeAreas.exe
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\bin\Debug\net8.0\CalculadoraDeAreas.deps.json
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\bin\Debug\net8.0\CalculadoraDeAreas.runtimeconfig.json
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\bin\Debug\net8.0\CalculadoraDeAreas.dll
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\bin\Debug\net8.0\CalculadoraDeAreas.pdb
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\obj\Debug\net8.0\CalculadoraDeAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\obj\Debug\net8.0\CalculadoraDeAreas.AssemblyInfoInputs.cache
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\obj\Debug\net8.0\CalculadoraDeAreas.AssemblyInfo.cs
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\obj\Debug\net8.0\CalculadoraDeAreas.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\obj\Debug\net8.0\CalculadoraDeAreas.dll
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\obj\Debug\net8.0\refint\CalculadoraDeAreas.dll
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\obj\Debug\net8.0\CalculadoraDeAreas.pdb
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\obj\Debug\net8.0\CalculadoraDeAreas.genruntimeconfig.cache
+C:\Users\Usuário\AmbientacaoDeconto\CalculadoraDeAreas\obj\Debug\net8.0\ref\CalculadoraDeAreas.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuário\AmbientacaoDeconto\Valores\obj\Debug\net8.0\Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\AmbientacaoDeconto\Valores\obj\Debug\net8.0\Valores.AssemblyInfoInputs.cache
+C:\Users\Usuário\AmbientacaoDeconto\Valores\obj\Debug\net8.0\Valores.AssemblyInfo.cs
+C:\Users\Usuário\AmbientacaoDeconto\Valores\obj\Debug\net8.0\Valores.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\AmbientacaoDeconto\Valores\bin\Debug\net8.0\Valores.exe
+C:\Users\Usuário\AmbientacaoDeconto\Valores\bin\Debug\net8.0\Valores.deps.json
+C:\Users\Usuário\AmbientacaoDeconto\Valores\bin\Debug\net8.0\Valores.runtimeconfig.json
+C:\Users\Usuário\AmbientacaoDeconto\Valores\bin\Debug\net8.0\Valores.dll
+C:\Users\Usuário\AmbientacaoDeconto\Valores\bin\Debug\net8.0\Valores.pdb
+C:\Users\Usuário\AmbientacaoDeconto\Valores\obj\Debug\net8.0\Valores.dll
+C:\Users\Usuário\AmbientacaoDeconto\Valores\obj\Debug\net8.0\refint\Valores.dll
+C:\Users\Usuário\AmbientacaoDeconto\Valores\obj\Debug\net8.0\Valores.pdb
+C:\Users\Usuário\AmbientacaoDeconto\Valores\obj\Debug\net8.0\Valores.genruntimeconfig.cache
+C:\Users\Usuário\AmbientacaoDeconto\Valores\obj\Debug\net8.0\ref\Valores.dll
