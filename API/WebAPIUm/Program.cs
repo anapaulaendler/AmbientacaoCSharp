@@ -13,6 +13,14 @@ app.MapGet("/", () => "Hello World em C#endregion! ");
 
 app.MapGet("/valescapopozuda", () => "Hello World em C#endregion! ");
 
-app.MapGet("/retornarendereco", () => "Hello World em C#endregion! ");
+app.MapGet("/retornarendereco", () => {
+    dynamic endereco = new {
+        rua = "Penal",
+        numero = 66,
+        CEP = "111111111111111111"
+
+    };
+    return endereco;
+});
 
 app.Run();
