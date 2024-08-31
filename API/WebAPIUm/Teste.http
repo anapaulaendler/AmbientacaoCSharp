@@ -1,6 +1,42 @@
-### Teste primeira funcionalidade
+### Teste: primeira funcionalidade
 GET http://localhost:5263
-### Teste segunda funcionalidade
+### Teste: segunda funcionalidade
 GET http://localhost:5263/valescapopozuda
-### Teste terceira funcionalidade
+### Teste: terceira funcionalidade
 GET http://localhost:5263/retornarendereco
+### Teste: quarta funcionalidade
+GET http://localhost:5263/receberinfo/Ana/19
+### Teste: quinta funcionalidade
+GET http://localhost:5263/receberinfocorpo
+Content-Type: application/json
+
+{
+    "Nome": "Ana",
+    "Idade": 19
+}
+### Teste: mais informações pra lista
+GET http://localhost:5263/receberinfocorpo
+Content-Type: application/json
+
+{
+    "Nome": "Juberto",
+    "Idade": 19
+}
+### Teste: mais informações pra lista
+GET http://localhost:5263/receberinfocorpo
+Content-Type: application/json
+
+{
+    "Nome": "Paulo",
+    "Idade": 10024
+}
+### Teste: mais informações pra lista
+GET http://localhost:5263/receberinfocorpo
+Content-Type: application/json
+
+{
+    "Nome": "Marlene",
+    "Idade": 11324
+}
+### Teste: sexta funcionalidade
+GET http://localhost:5263/lista
