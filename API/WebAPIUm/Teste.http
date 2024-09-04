@@ -14,7 +14,7 @@ Content-Type: application/json
     "Nome": "Ana",
     "Idade": 19
 }
-### Teste: mais informações pra lista
+### Teste: mais informações pra lista, na web (cliente) POST não funciona, por isso o GET
 GET http://localhost:5263/receberinfocorpo
 Content-Type: application/json
 

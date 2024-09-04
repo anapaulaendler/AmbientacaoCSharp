@@ -6,9 +6,12 @@
 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Net.Http.Headers;
+using API.modelos;
 
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
+
+/* endpoints: funcionalidades */
 
 // lista utilizada no sexto item:
 List<UserInfo> listaUser = new List<UserInfo>();
@@ -69,3 +72,15 @@ public class UserInfo
     public string? Nome { get; set; }
     public int Idade { get; set; }
 }
+
+/* material feito na aula do dia 04.09: */
+
+/* JAVA ABAIXO (UTILIZAÇÃO DOS GETS E SETS)
+Produto produto = new Produto();
+produto.setPreco(5);
+Console.WriteLine("Preço: R$ " + produto.getPreco()); */
+
+// C#: utilização dos gets e sets
+Produto produto = new Produto();
+produto.Preco = 5;
+Console.WriteLine("Preco: R$ " + produto.Preco);

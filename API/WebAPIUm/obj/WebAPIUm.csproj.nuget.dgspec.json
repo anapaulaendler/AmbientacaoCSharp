@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuário\\AmbientacaoDeconto\\API\\WebAPIUm\\WebAPIUm.csproj": {}
+    "C:\\Users\\autologon\\Documents\\AmbientacaoCSharp\\API\\WebAPIUm\\WebAPIUm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuário\\AmbientacaoDeconto\\API\\WebAPIUm\\WebAPIUm.csproj": {
+    "C:\\Users\\autologon\\Documents\\AmbientacaoCSharp\\API\\WebAPIUm\\WebAPIUm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuário\\AmbientacaoDeconto\\API\\WebAPIUm\\WebAPIUm.csproj",
+        "projectUniqueName": "C:\\Users\\autologon\\Documents\\AmbientacaoCSharp\\API\\WebAPIUm\\WebAPIUm.csproj",
         "projectName": "WebAPIUm",
-        "projectPath": "C:\\Users\\Usuário\\AmbientacaoDeconto\\API\\WebAPIUm\\WebAPIUm.csproj",
-        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuário\\AmbientacaoDeconto\\API\\WebAPIUm\\obj\\",
+        "projectPath": "C:\\Users\\autologon\\Documents\\AmbientacaoCSharp\\API\\WebAPIUm\\WebAPIUm.csproj",
+        "packagesPath": "C:\\Users\\autologon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\autologon\\Documents\\AmbientacaoCSharp\\API\\WebAPIUm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\autologon\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
