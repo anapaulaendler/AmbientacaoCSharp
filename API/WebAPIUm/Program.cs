@@ -11,7 +11,9 @@ using WebAPIUm.modelos;
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-/* endpoints: funcionalidades */
+/* endpoints: funcionalidades 
+   request: configurar a url e o método/verbo 
+   response: retornar dados (json, xml, etc) e */
 
 // lista utilizada no sexto item:
 List<UserInfo> listaUser = new List<UserInfo>();
@@ -41,8 +43,19 @@ listaProduto.Add(new Produto()
 // ✧ primeiro:
 app.MapGet("/", () => "API de produtos");
 
-// ✧ segundo, texto da valesca:
-app.MapGet("/produto/listar", () => listaProduto);
+// ✧ GET: /produto/listar
+app.MapGet("/produto/listar", () => 
+{
+    return Results.Ok(listaProduto);
+});
+
+// ✧ POST: /produto/cadastrar
+app.MapPost("/produto/cadastrar/{nome}", () => 
+{
+    listaProduto produto = new Produto();
+    produto.Nome
+    return Results.Ok(listaProduto);
+});
 
 // ✧ terceiro, endereço:
 app.MapGet("/retornarendereco", () => {
