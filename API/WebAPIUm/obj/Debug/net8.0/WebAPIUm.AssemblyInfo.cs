@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPIUm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd7b68a5e214636dd4585bb5a0c931e31aa7f812")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30304f403919c441e43f6315a45b055619e1ea30")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPIUm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPIUm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

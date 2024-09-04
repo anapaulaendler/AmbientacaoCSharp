@@ -6,7 +6,7 @@
 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Net.Http.Headers;
-using API.modelos;
+using WebAPIUm.modelos;
 
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
@@ -15,15 +15,34 @@ var app = builder.Build();
 
 // lista utilizada no sexto item:
 List<UserInfo> listaUser = new List<UserInfo>();
+List<Produto> listaProduto = new List<Produto>();
+listaProduto.Add(new Produto()
+{
+    Nome = "Noteboook",
+    Preco = 5000,
+    Quantidade = 54
+});
+listaProduto.Add(new Produto()
+{
+    Nome = "Monitor",
+    Preco = 200,
+    Quantidade = 12
+});
+listaProduto.Add(new Produto()
+{
+    Nome = "Bala",
+    Preco = 2,
+    Quantidade = 3000
+});
 
 /* EndPoints: Funcionalidades 
    Configurar a URL e o método/verbo */
 
 // ✧ primeiro:
-app.MapGet("/", () => "Hello World em C#!");
+app.MapGet("/", () => "API de produtos");
 
 // ✧ segundo, texto da valesca:
-app.MapGet("/valescapopozuda", () => "Desejo a todas inimigas vida longa, Pra que elas vejam cada dia mais nossa vitória. Valesca Popozuda.");
+app.MapGet("/produto/listar", () => listaProduto);
 
 // ✧ terceiro, endereço:
 app.MapGet("/retornarendereco", () => {
@@ -80,7 +99,7 @@ Produto produto = new Produto();
 produto.setPreco(5);
 Console.WriteLine("Preço: R$ " + produto.getPreco()); */
 
-// C#: utilização dos gets e sets
+/* C#: utilização dos gets e sets
 Produto produto = new Produto();
 produto.Preco = 5;
-Console.WriteLine("Preco: R$ " + produto.Preco);
+Console.WriteLine("Preco: R$ " + produto.Preco); */

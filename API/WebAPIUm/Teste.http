@@ -1,7 +1,7 @@
 ### Teste: primeira funcionalidade
 GET http://localhost:5263
 ### Teste: segunda funcionalidade
-GET http://localhost:5263/valescapopozuda
+GET http://localhost:5263/produto/listar
 ### Teste: terceira funcionalidade
 GET http://localhost:5263/retornarendereco
 ### Teste: quarta funcionalidade
