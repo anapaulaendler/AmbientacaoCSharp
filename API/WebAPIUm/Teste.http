@@ -2,6 +2,8 @@
 GET http://localhost:5263
 ### Teste: segunda funcionalidade
 GET http://localhost:5263/produto/listar
+### Teste: cadastrar produto via URL
+POST http://localhost:5263/produto/cadastrar/Bizu
 ### Teste: terceira funcionalidade
 GET http://localhost:5263/retornarendereco
 ### Teste: quarta funcionalidade

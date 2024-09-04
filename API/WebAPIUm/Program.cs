@@ -50,10 +50,11 @@ app.MapGet("/produto/listar", () =>
 });
 
 // ✧ POST: /produto/cadastrar
-app.MapPost("/produto/cadastrar/{nome}", () => 
+app.MapPost("/produto/cadastrar/{nome}", (string nome) => 
 {
-    listaProduto produto = new Produto();
-    produto.Nome
+    Produto produto = new Produto();
+    produto.Nome = nome;
+    listaProduto.Add(produto);
     return Results.Ok(listaProduto);
 });
 
